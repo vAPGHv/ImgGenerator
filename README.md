@@ -1,4 +1,4 @@
 # ImgGenerator
 Random img generator
 
-install pillow to working
+install pillow and color-it to working
